@@ -1,4 +1,1 @@
 kafka-python-ng
-fastapi
-uvicorn
-pydantic
